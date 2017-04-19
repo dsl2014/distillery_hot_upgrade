@@ -1,6 +1,7 @@
 # HotTest
 
 中文版:使用distillery来热更新Phoenxi服务器
+
 第一步:
 	安装Phoenxi所需要的环境，这里就不做讲解；
 第二步:
