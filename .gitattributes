@@ -1,6 +1,6 @@
-*.js linguist-language=elixir
-*.css linguist-language=elixir
-*.html linguist-language=elixir
-*.ex linguist-language=elixir
-*.exs linguist-language=elixir
-*.erl linguist-language=elixir
+*.js linguist-language=Elixir
+*.css linguist-language=Elixir
+*.html linguist-language=Elixir
+*.ex linguist-language=Elixir
+*.exs linguist-language=Elixir
+*.erl linguist-language=Elixir
