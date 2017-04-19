@@ -1,0 +1,3 @@
+*.ex linguist-language=elixir
+*.exs linguist-language=elixir
+*.erl linguist-language=elixir
